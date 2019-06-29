@@ -3316,7 +3316,6 @@ input, select, textarea {
 		}
 		#intro p {
 			color: #ffffff;
-			font-family: "Carter One";
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3331,7 +3330,6 @@ input, select, textarea {
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
 			color: #ffffff;
-			font-family: "Carter One";
 		}
 
 		#intro blockquote {
